@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashrajk5
+- 👋 Hi, I’m @yashrajkabra
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Data Science and its applications.
 - 💞️ I’m looking to collaborate on Python projects.
